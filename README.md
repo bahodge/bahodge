@@ -17,9 +17,9 @@ Node + Typescript, React, Graphql, React, MongoDB, Redis, Docker, Kubernetes, Rx
 
 Like I wrote earlier, I love learning new programming languages. Ruby is my favorite language to develop in by far for one simple reason, it's easy to write. Anyways, here are some cool languages I'd like to dive deeper into.
 
-- [Rust](https://www.rust-lang.org/)
 - [Crystal](https://crystal-lang.org/)
 - [Elixir](https://elixir-lang.org/)
+- [Rust](https://www.rust-lang.org/)
 - [Nim](https://nim-lang.org/)
 
 ## Links
