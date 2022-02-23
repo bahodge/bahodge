@@ -21,6 +21,7 @@ Like I wrote earlier, I love learning new programming languages. Ruby is my favo
 - [Elixir](https://elixir-lang.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Nim](https://nim-lang.org/)
+- [Go](https://go.dev/)
 
 ## Links
 
