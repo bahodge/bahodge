@@ -5,7 +5,7 @@ My name is Ben and I'm a web developer. I'm super into programming languages, de
 
 So, I generally don't use Github all that often except for my personal projects or moonlighting contracts which are generally all private repositories. So please enjoy looking at my public repo source code but know that I probably just hacked it together in an hour or so. If activity is important to you, then check out my [GitLab contributor graph](https://gitlab.com/benhodge_plusone). I kind of don't care about frontend & design stuff and tend to focus more on the backend.
 
-I'm a Tech Lead at a now international industrial robotics software company. I specificially work with connecting humans and robots through the internet and get to play with a bunch of facinating technologies to accomplish this. I get to collaborate with some really world class engineers and people who are all super passionate about their jobs. I've gotten to play with a robots, distributed computing, realtime communications, scaling infrastructure and even went to a few client sites. If this sounds cool to you, see [plus one robotics](https://plusonerobotics.com/) to learn more.
+I'm the Group Lead for the Web team at an international industrial robotics software company. I specificially work with connecting humans and robots through the internet and get to play with a bunch of facinating technologies to accomplish this. I get to collaborate with some really world class engineers and people who are all super passionate about their jobs. I've gotten to play with a robots, distributed computing, realtime communications, scaling infrastructure and even went to a few client sites. If this sounds cool to you, see [plus one robotics](https://plusonerobotics.com/) to learn more.
 
 ## Tech
 
@@ -17,11 +17,11 @@ Node + Typescript, React, Graphql, React, MongoDB, Redis, Docker, Kubernetes, Rx
 
 Like I wrote earlier, I love learning new programming languages. Ruby is my favorite language to develop in by far for one simple reason, it's easy to write. Anyways, here are some cool languages I'd like to dive deeper into.
 
-- [Crystal](https://crystal-lang.org/)
+- [Go](https://go.dev/)
 - [Elixir](https://elixir-lang.org/)
+- [Crystal](https://crystal-lang.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Nim](https://nim-lang.org/)
-- [Go](https://go.dev/)
 
 ## Links
 
