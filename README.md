@@ -2,12 +2,12 @@
 
 My name is Ben and I'm a Senior Web Developer and Group Lead. I'm super into programming languages, design patterns and software architecture! I am a compulsive learner and this is where I store all the random stuff I learned. I generally don't use Github all that often except for my personal projects or moonlighting contracts which are generally all private repositories.
 
-## Tech
+## Work Tech
 
 My current work stack is pretty fun because I get to touch everything from the cloud to the edge device. I'm not going to include all of them because I think the list is big already. At my core, I would say I'm a NodeJS developer and can say I've gotten to actually use some of the advanced features of the language.
 
 - Typescript
-- React
+- React + Vite
 - Graphql & REST
 - Express
 - MongoDB
@@ -21,8 +21,10 @@ My current work stack is pretty fun because I get to touch everything from the c
 - Amazon Web Services (AWS)
 - GitLab CI/CD +
 
-on the side I work a whole lot with
+## Personal Tech
+
 - Go
+- Svelte & other micro frontend frameworks
 - GCP
 - K8s
 - Docker
