@@ -16,6 +16,7 @@ My current work stack is pretty fun because I get to touch everything from the c
 - Docker
 - Kubernetes
 - RxJs
+- Elastic w/ Kibana (ELK)
 - Robot Operating System (ROS)
 - Google Cloud Platform (GCP)
 - Amazon Web Services (AWS)
