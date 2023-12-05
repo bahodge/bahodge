@@ -1,6 +1,6 @@
 ## About
 
-My name is Ben and I'm a Senior Web Developer and Group Lead. I'm super into programming languages, design patterns and software architecture! I am a compulsive learner and this is where I store all the random stuff I learned. I generally don't use Github all that often except for my personal projects or moonlighting contracts which are generally all private repositories.
+Hey, I'm Ben and I'm a Senior Web Developer and Group Lead. I'm super into programming languages, design patterns and software architecture! I am a compulsive learner and this is where I store all the random stuff I learned. I generally don't use Github all that often except for my personal projects or moonlighting contracts which are generally all private repositories. I'm married and have a great rescue pup named Sardine (Sardy).
 
 ## Work Tech
 
@@ -9,26 +9,16 @@ My current work stack is pretty fun because I get to touch everything from the c
 - Typescript
 - React + Vite
 - Graphql & REST
-- Express
-- MongoDB
-- PostgreSQL
-- Redis
-- Docker
-- Kubernetes
-- RxJs
+- MongoDB,PostgreSQL & Redis
+- Kubernetes, Docker & Docker Compose
 - Elastic w/ Kibana (ELK)
 - Robot Operating System (ROS)
-- Google Cloud Platform (GCP)
-- Amazon Web Services (AWS)
+- GCP & AWS
 - GitLab CI/CD +
 
 ## Personal Tech
 
-- Go
-- Svelte & other micro frontend frameworks
-- GCP
-- K8s
-- Docker
+I pretty much have started writing all of my personal projects in either Go or Elixir. Given that, I continously am learning new tech.
 
 ## Links
 
