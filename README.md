@@ -18,7 +18,7 @@ My current work stack is pretty fun because I get to touch everything from the c
 
 ## Personal Tech
 
-I pretty much have started writing all of my personal projects in either Go or Elixir. Given that, I continously am learning new tech.
+I pretty much have started writing all of my personal projects in either Go or some other weird language. Given that, I continously am learning new tech.
 
 ## Links
 
