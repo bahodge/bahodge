@@ -1,6 +1,6 @@
 ## About
 
-Hey, I'm Ben and I'm a Senior Web Developer and Group Lead. I'm super into programming languages, design patterns and software architecture! I am a compulsive learner and this is where I store all the random stuff I learned. I generally don't use Github all that often except for my personal projects or moonlighting contracts which are generally all private repositories. I'm married and have a great rescue pup named Sardine (Sardy).
+Hey, I'm Ben and I'm a Senior Web Developer. I'm super into programming languages, design patterns and software architecture! I am a compulsive learner and this is where I store all the random stuff I learned. I generally don't use Github all that often except for my personal projects or moonlighting contracts which are generally all private repositories. I'm married and have a great rescue pup named Sardine (Sardy).
 
 ## Work Tech
 
